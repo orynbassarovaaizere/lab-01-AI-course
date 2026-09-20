@@ -1,0 +1,40 @@
+{
+  "model": "opus-5",
+  "model_id": "claude-opus-5",
+  "token_counts": {
+    "sentence": {
+      "en": 26,
+      "ru": 35,
+      "kk": 48
+    },
+    "complaint": {
+      "en": 92,
+      "ru": 134,
+      "kk": 198
+    },
+    "system_prompt": {
+      "en": 58,
+      "ru": 80,
+      "kk": 124
+    }
+  },
+  "request_tokens": {
+    "en": 145,
+    "ru": 209,
+    "kk": 317
+  },
+  "one_request_billed": {
+    "en": {
+      "input_tokens": 145,
+      "output_tokens": 955
+    },
+    "ru": {
+      "input_tokens": 209,
+      "output_tokens": 1226
+    },
+    "kk": {
+      "input_tokens": 317,
+      "output_tokens": 1337
+    }
+  }
+}
